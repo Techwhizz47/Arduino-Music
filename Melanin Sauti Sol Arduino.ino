@@ -13,6 +13,7 @@
 
  My GitHub Profile:
  https://github.com/Techwhizz47/Music.git
+*/
 
 #include "pitches.h"
 
